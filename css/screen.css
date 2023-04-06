@@ -90,14 +90,14 @@ a {
 	
 .button {
 	appearance: auto;
-	writting-mode; :horizontal-tb
+	writing-mode: horizontal-tb
 	!important;
 	font-style
 
 }
 
 
-@media screen and (min-width: 1280px) {
+@media screen and (min-width: 1440px) {
 	
 	body {
 		font-size: 16px;
